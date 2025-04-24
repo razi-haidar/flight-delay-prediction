@@ -260,7 +260,7 @@ This project is licensed under the MIT License.
 
 Author: Razi Haidar
 GitHub: github.com/razi-haidar
-Email: razi.haidar@example.com
+Email: razi.haidar2002@gmail.com
 LinkedIn: linkedin.com/in/razi-haidar
 
 
